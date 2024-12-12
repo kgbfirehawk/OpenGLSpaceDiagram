@@ -1,0 +1,12 @@
+# Ignore large files
+spacedock.obj
+dockmaintexture.bmp
+
+# Other files and directories to ignore
+*.exe
+*.dll
+.vscode/
+bin/
+build/
+Debug/
+Release/
